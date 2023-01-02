@@ -1,0 +1,6 @@
+main.c:72:5:main	8	static
+main.c:184:6:SystemClock_Config	88	static
+main.c:229:13:MX_USART2_UART_Init	8	static
+main.c:262:13:MX_GPIO_Init	56	static
+main.c:399:6:taratura	16	static
+main.c:474:6:Error_Handler	4	static,ignoring_inline_asm
